@@ -1,3 +1,5 @@
 # spring1_sptech
-isso ai guys mudado localmente
+mudado localmente
 outra edição
+
+edição feita no remoto
